@@ -2,6 +2,8 @@
 
 Organização | Link | País
 --------- | ------ | ------
+Agência Pública | https://github.com/apublica | Brasil
+Agência Tatu | https://github.com/agenciatatu | Brasil
 Boston Globe | https://github.com/bostonglobe | EUA
 BuzzFeedNews | https://github.com/BuzzFeedNews | EUA
 Chicago Tribune | https://github.com/newsapps | EUA
@@ -14,7 +16,7 @@ Le Monde | https://github.com/lemonde | França
 Los Angeles Times | https://github.com/datadesk | EUA
 Nexo Jornal | https://github.com/Nexo-Dados | Brasil
 NPR | https://github.com/npr | EUA
-Open Knowledge Brasil | https://github.com/orgs/okfn-brasil/ | Brasil
+O POVO | https://github.com/datadoc-opovo | Brasil
 ProPublica | https://github.com/propublica | EUA
 The Economist | https://github.com/TheEconomist | Reino Unido
 The Guardian | https://github.com/guardian | Reino Unido
